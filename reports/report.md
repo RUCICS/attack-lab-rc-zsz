@@ -1,4 +1,4 @@
-# 栈溢出攻击实验报告
+# 实验报告
 
 ## 题目解决思路
 
@@ -28,7 +28,7 @@
 - **结果**：
     运行 `./problem1 ans1.txt`，成功输出目标字符串。
 
-    
+
     ![](pictures/p1.png)
 
   
@@ -132,6 +132,8 @@
 
 - **结果**：
     程序输出解密后的通关提示："If you give me yuanshi i will give you good scores"。
+
+    
 
     ![](pictures/p4.png)
 
